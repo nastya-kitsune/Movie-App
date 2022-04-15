@@ -116,3 +116,9 @@ body {
 .movie__average--red {
     border: 1px solid red;
 }
+
+@media (max-width: 450px) {
+    .header__logo {
+        font-size: 22px;
+    }
+}
